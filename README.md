@@ -28,7 +28,7 @@ $ ./build.sh 5.8
 # 3. open the .doccarchive file in dist/
 ```
 
-visit the Imported Documentation in `Xcode > Help > Developer Documenation`
+Visit the Imported Documentation in `Xcode > Help > Developer Documenation`
 
 ### Uninstallation
 
