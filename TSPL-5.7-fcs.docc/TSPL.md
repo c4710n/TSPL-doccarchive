@@ -1,7 +1,13 @@
-# ``TSPL``
+# The Swift Programming Language 5.7
 
 @Metadata {
-  @DisplayName("The Swift Programming Language")
+  @TechnologyRoot
+}
+
+@Options(scope: global) {
+  @AutomaticSeeAlso(disabled)
+  @AutomaticTitleHeading(disabled)
+  @AutomaticArticleSubheading(disabled)
 }
 
 ## Topics
