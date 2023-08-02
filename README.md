@@ -2,6 +2,8 @@
 
 Visit the history version of [TSPL(The Swift Programming Language)](https://github.com/apple/swift-book) with ease.
 
+![Screenshot](./assets/screenshot.png)
+
 ## Why?
 
 - want to read the stable version of TSPL
